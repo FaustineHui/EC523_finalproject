@@ -24,7 +24,7 @@ The dataset comes from: [CNNDetection](https://github.com/peterwang512/CNNDetect
 ## Averaged Result
 Our full test data are available in our code repository. Here we take the overall average for our analysis.
 
-| Averaged Accuracy | ProGAN (same category) | ProGAN (overall) | Different GANs (similar category) | Different GANs (overall) |
+| Averaged Accuracy | ProGAN \\(same category) | ProGAN \\(overall) | Different GANs \\(similar category) | Different GANs \\(overall) |
 | ---- | ---- | ---- | ---- | ---- |
 | Xception | 99.2 | 90.2 | 68.36 | 64.21 | 
 | DenseNet | 73.4 | 60.23 | 54.09 | 50.93 |
@@ -33,3 +33,12 @@ Our full test data are available in our code repository. Here we take the overal
 | Ensemble | 98 | 86.99 | 66.87 | 55.34 |
 
 From the table it's obvious that the accuracy of all models decrease as they move from same category in same GAN, to different category, to different GANs but similar categories, and to different GANs in different categories. In our data, even for the best performing Xception, ensemble learning (69.15%) still outperforms the corresponding Xception model (66.95%) in the fake category of sofa.
+
+## Conclusion
+Models perform best when tested on the same GAN within same category.
+
+When they encounter unseen GANs, they are highly likely to still perform decently on similar categories, but may not work as well on unseen GANs and unseen categories.
+
+Soft Ensemble Learning can boost overall performance based on each model’s capability. And it can also use some models' advantages to make up for others' disadvantages, as we've seen above for the Xception.
+
+To further improve our method, models can be fine-tuned, more models can be added, data augmentation can be deployed. In conclusion, we prove that the Ensemble Learning can successfully take advantages from different models from different approaches, and make it more robust and generalizing to act as a universal GAN detector.
