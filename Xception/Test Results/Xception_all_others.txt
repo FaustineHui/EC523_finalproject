@@ -1,0 +1,740 @@
+For train category car:
+For test gan biggan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.145673
+Test Accuracy of  Real: 62% (1249/2000)
+Test Accuracy of  Fake: 50% (1011/2000)
+Test Accuracy (Overall): 56% (2260/4000)
+
+For test gan cyclegan:
+For test category apple:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.403761
+Test Accuracy of  Real: 56% (149/266)
+Test Accuracy of  Fake: 43% (109/248)
+Test Accuracy (Overall): 50% (258/514)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.628230
+Test Accuracy of  Real: 60% (73/120)
+Test Accuracy of  Fake: 71% (100/140)
+Test Accuracy (Overall): 66% (173/260)
+
+For test category orange:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.025518
+Test Accuracy of  Real: 64% (161/248)
+Test Accuracy of  Fake: 54% (145/266)
+Test Accuracy (Overall): 59% (306/514)
+
+For test category summer:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.920667
+Test Accuracy of  Real: 45% (140/308)
+Test Accuracy of  Fake: 84% (201/238)
+Test Accuracy (Overall): 62% (341/546)
+
+For test category winter:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.795906
+Test Accuracy of  Real: 46% (111/238)
+Test Accuracy of  Fake: 92% (284/308)
+Test Accuracy (Overall): 72% (395/546)
+
+For test category zebra:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.333389
+Test Accuracy of  Real: 64% (90/140)
+Test Accuracy of  Fake: 86% (104/120)
+Test Accuracy (Overall): 74% (194/260)
+
+For test gan deepfake:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.154013
+Test Accuracy of  Real: 29% (790/2706)
+Test Accuracy of  Fake: 69% (1882/2698)
+Test Accuracy (Overall): 49% (2672/5404)
+
+For test gan san:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 3.534262
+Test Accuracy of  Real: 72% (158/219)
+Test Accuracy of  Fake: 26% (58/219)
+Test Accuracy (Overall): 49% (216/438)
+
+For test gan stargan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.138579
+Test Accuracy of  Real: 95% (1909/1999)
+Test Accuracy of  Fake: 38% (773/1999)
+Test Accuracy (Overall): 67% (2682/3998)
+
+For test gan stylegan:
+For test category bedroom:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 4.604840
+Test Accuracy of  Real: 98% (1967/1997)
+Test Accuracy of  Fake:  9% (183/1997)
+Test Accuracy (Overall): 53% (2150/3994)
+
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.017084
+Test Accuracy of  Real: 99% (1985/1997)
+Test Accuracy of  Fake: 58% (1170/1997)
+Test Accuracy (Overall): 78% (3155/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.774119
+Test Accuracy of  Real: 97% (1942/1997)
+Test Accuracy of  Fake: 32% (641/1997)
+Test Accuracy (Overall): 64% (2583/3994)
+
+For test gan stylegan2:
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.085839
+Test Accuracy of  Real: 99% (1989/1997)
+Test Accuracy of  Fake: 60% (1207/1997)
+Test Accuracy (Overall): 80% (3196/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.300527
+Test Accuracy of  Real: 97% (1941/1997)
+Test Accuracy of  Fake: 33% (661/1997)
+Test Accuracy (Overall): 65% (2602/3994)
+
+For test category church:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.552639
+Test Accuracy of  Real: 99% (1990/1997)
+Test Accuracy of  Fake: 37% (746/1997)
+Test Accuracy (Overall): 68% (2736/3994)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.695261
+Test Accuracy of  Real: 98% (1968/1997)
+Test Accuracy of  Fake: 30% (608/1997)
+Test Accuracy (Overall): 64% (2576/3994)
+
+For test gan whichfaceisreal:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.298403
+Test Accuracy of  Real: 34% (346/1000)
+Test Accuracy of  Fake: 79% (792/1000)
+Test Accuracy (Overall): 56% (1138/2000)
+
+For train category cat:
+For test gan biggan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.439959
+Test Accuracy of  Real: 86% (1735/2000)
+Test Accuracy of  Fake: 34% (683/2000)
+Test Accuracy (Overall): 60% (2418/4000)
+
+For test gan cyclegan:
+For test category apple:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 3.460540
+Test Accuracy of  Real: 97% (260/266)
+Test Accuracy of  Fake:  4% (12/248)
+Test Accuracy (Overall): 52% (272/514)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.019886
+Test Accuracy of  Real: 93% (112/120)
+Test Accuracy of  Fake: 10% (15/140)
+Test Accuracy (Overall): 48% (127/260)
+
+For test category orange:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 6.999320
+Test Accuracy of  Real: 95% (236/248)
+Test Accuracy of  Fake:  0% ( 0/266)
+Test Accuracy (Overall): 45% (236/514)
+
+For test category summer:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.595508
+Test Accuracy of  Real: 91% (283/308)
+Test Accuracy of  Fake: 16% (39/238)
+Test Accuracy (Overall): 58% (322/546)
+
+For test category winter:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.844275
+Test Accuracy of  Real: 88% (211/238)
+Test Accuracy of  Fake: 55% (172/308)
+Test Accuracy (Overall): 70% (383/546)
+
+For test category zebra:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.488199
+Test Accuracy of  Real: 87% (122/140)
+Test Accuracy of  Fake: 15% (19/120)
+Test Accuracy (Overall): 54% (141/260)
+
+For test gan deepfake:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.671895
+Test Accuracy of  Real: 92% (2515/2706)
+Test Accuracy of  Fake: 18% (490/2698)
+Test Accuracy (Overall): 55% (3005/5404)
+
+For test gan san:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.637767
+Test Accuracy of  Real: 85% (188/219)
+Test Accuracy of  Fake: 20% (44/219)
+Test Accuracy (Overall): 52% (232/438)
+
+For test gan stargan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.022754
+Test Accuracy of  Real: 99% (1998/1999)
+Test Accuracy of  Fake: 98% (1963/1999)
+Test Accuracy (Overall): 99% (3961/3998)
+
+For test gan stylegan:
+For test category bedroom:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 11.925670
+Test Accuracy of  Real: 100% (1997/1997)
+Test Accuracy of  Fake:  2% (45/1997)
+Test Accuracy (Overall): 51% (2042/3994)
+
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.532142
+Test Accuracy of  Real: 99% (1995/1997)
+Test Accuracy of  Fake: 70% (1402/1997)
+Test Accuracy (Overall): 85% (3397/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.902649
+Test Accuracy of  Real: 100% (1997/1997)
+Test Accuracy of  Fake: 64% (1283/1997)
+Test Accuracy (Overall): 82% (3280/3994)
+
+For test gan stylegan2:
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.302824
+Test Accuracy of  Real: 100% (1997/1997)
+Test Accuracy of  Fake: 80% (1602/1997)
+Test Accuracy (Overall): 90% (3599/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.559792
+Test Accuracy of  Real: 99% (1996/1997)
+Test Accuracy of  Fake: 70% (1416/1997)
+Test Accuracy (Overall): 85% (3412/3994)
+
+For test category church:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 5.429123
+Test Accuracy of  Real: 100% (1997/1997)
+Test Accuracy of  Fake:  2% (50/1997)
+Test Accuracy (Overall): 51% (2047/3994)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.586943
+Test Accuracy of  Real: 100% (1997/1997)
+Test Accuracy of  Fake: 20% (400/1997)
+Test Accuracy (Overall): 60% (2397/3994)
+
+For test gan whichfaceisreal:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.176050
+Test Accuracy of  Real: 57% (578/1000)
+Test Accuracy of  Fake: 72% (720/1000)
+Test Accuracy (Overall): 64% (1298/2000)
+
+For train category horse:
+For test gan biggan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 3.337382
+Test Accuracy of  Real: 75% (1519/2000)
+Test Accuracy of  Fake: 32% (640/2000)
+Test Accuracy (Overall): 53% (2159/4000)
+
+For test gan cyclegan:
+For test category apple:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.948536
+Test Accuracy of  Real: 93% (250/266)
+Test Accuracy of  Fake: 20% (50/248)
+Test Accuracy (Overall): 58% (300/514)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 4.763225
+Test Accuracy of  Real: 90% (109/120)
+Test Accuracy of  Fake:  5% ( 7/140)
+Test Accuracy (Overall): 44% (116/260)
+
+For test category orange:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.724433
+Test Accuracy of  Real: 81% (203/248)
+Test Accuracy of  Fake: 21% (58/266)
+Test Accuracy (Overall): 50% (261/514)
+
+For test category summer:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.714865
+Test Accuracy of  Real: 90% (280/308)
+Test Accuracy of  Fake:  8% (21/238)
+Test Accuracy (Overall): 55% (301/546)
+
+For test category winter:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.557499
+Test Accuracy of  Real: 81% (195/238)
+Test Accuracy of  Fake: 81% (251/308)
+Test Accuracy (Overall): 81% (446/546)
+
+For test category zebra:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.426429
+Test Accuracy of  Real: 95% (133/140)
+Test Accuracy of  Fake: 13% (16/120)
+Test Accuracy (Overall): 57% (149/260)
+
+For test gan deepfake:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.440885
+Test Accuracy of  Real: 74% (2013/2706)
+Test Accuracy of  Fake: 33% (896/2698)
+Test Accuracy (Overall): 53% (2909/5404)
+
+For test gan san:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 3.336930
+Test Accuracy of  Real: 53% (117/219)
+Test Accuracy of  Fake: 65% (143/219)
+Test Accuracy (Overall): 59% (260/438)
+
+For test gan stargan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.071705
+Test Accuracy of  Real: 97% (1955/1999)
+Test Accuracy of  Fake: 96% (1932/1999)
+Test Accuracy (Overall): 97% (3887/3998)
+
+For test gan stylegan:
+For test category bedroom:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 7.594947
+Test Accuracy of  Real: 96% (1918/1997)
+Test Accuracy of  Fake: 20% (415/1997)
+Test Accuracy (Overall): 58% (2333/3994)
+
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.061030
+Test Accuracy of  Real: 99% (1986/1997)
+Test Accuracy of  Fake: 96% (1922/1997)
+Test Accuracy (Overall): 97% (3908/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.305262
+Test Accuracy of  Real: 99% (1992/1997)
+Test Accuracy of  Fake: 84% (1683/1997)
+Test Accuracy (Overall): 92% (3675/3994)
+
+For test gan stylegan2:
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.039581
+Test Accuracy of  Real: 99% (1983/1997)
+Test Accuracy of  Fake: 97% (1952/1997)
+Test Accuracy (Overall): 98% (3935/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.294869
+Test Accuracy of  Real: 99% (1991/1997)
+Test Accuracy of  Fake: 47% (940/1997)
+Test Accuracy (Overall): 73% (2931/3994)
+
+For test category church:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.180058
+Test Accuracy of  Real: 95% (1898/1997)
+Test Accuracy of  Fake: 30% (607/1997)
+Test Accuracy (Overall): 62% (2505/3994)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 3.905764
+Test Accuracy of  Real: 99% (1993/1997)
+Test Accuracy of  Fake: 19% (395/1997)
+Test Accuracy (Overall): 59% (2388/3994)
+
+For test gan whichfaceisreal:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.645472
+Test Accuracy of  Real: 39% (391/1000)
+Test Accuracy of  Fake: 88% (883/1000)
+Test Accuracy (Overall): 63% (1274/2000)
+
+For train category person:
+For test gan biggan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.653864
+Test Accuracy of  Real: 57% (1159/2000)
+Test Accuracy of  Fake: 52% (1057/2000)
+Test Accuracy (Overall): 55% (2216/4000)
+
+For test gan cyclegan:
+For test category apple:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.238306
+Test Accuracy of  Real: 79% (211/266)
+Test Accuracy of  Fake: 18% (45/248)
+Test Accuracy (Overall): 49% (256/514)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.663805
+Test Accuracy of  Real: 63% (76/120)
+Test Accuracy of  Fake: 47% (67/140)
+Test Accuracy (Overall): 55% (143/260)
+
+For test category orange:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.843601
+Test Accuracy of  Real: 86% (215/248)
+Test Accuracy of  Fake: 13% (37/266)
+Test Accuracy (Overall): 49% (252/514)
+
+For test category summer:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.961283
+Test Accuracy of  Real: 61% (188/308)
+Test Accuracy of  Fake: 60% (145/238)
+Test Accuracy (Overall): 60% (333/546)
+
+For test category winter:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.646439
+Test Accuracy of  Real: 57% (136/238)
+Test Accuracy of  Fake: 93% (289/308)
+Test Accuracy (Overall): 77% (425/546)
+
+For test category zebra:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.094834
+Test Accuracy of  Real: 63% (89/140)
+Test Accuracy of  Fake: 69% (83/120)
+Test Accuracy (Overall): 66% (172/260)
+
+For test gan deepfake:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.017900
+Test Accuracy of  Real: 89% (2416/2706)
+Test Accuracy of  Fake: 16% (448/2698)
+Test Accuracy (Overall): 52% (2864/5404)
+
+For test gan san:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.785828
+Test Accuracy of  Real: 52% (114/219)
+Test Accuracy of  Fake: 63% (140/219)
+Test Accuracy (Overall): 57% (254/438)
+
+For test gan stargan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.047198
+Test Accuracy of  Real: 96% (1939/1999)
+Test Accuracy of  Fake: 99% (1990/1999)
+Test Accuracy (Overall): 98% (3929/3998)
+
+For test gan stylegan:
+For test category bedroom:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 4.192611
+Test Accuracy of  Real: 90% (1811/1997)
+Test Accuracy of  Fake: 25% (502/1997)
+Test Accuracy (Overall): 57% (2313/3994)
+
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.075860
+Test Accuracy of  Real: 97% (1957/1997)
+Test Accuracy of  Fake: 95% (1917/1997)
+Test Accuracy (Overall): 96% (3874/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.187279
+Test Accuracy of  Real: 99% (1982/1997)
+Test Accuracy of  Fake: 86% (1737/1997)
+Test Accuracy (Overall): 93% (3719/3994)
+
+For test gan stylegan2:
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.156756
+Test Accuracy of  Real: 97% (1956/1997)
+Test Accuracy of  Fake: 88% (1759/1997)
+Test Accuracy (Overall): 93% (3715/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.497875
+Test Accuracy of  Real: 99% (1987/1997)
+Test Accuracy of  Fake: 67% (1347/1997)
+Test Accuracy (Overall): 83% (3334/3994)
+
+For test category church:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.080891
+Test Accuracy of  Real: 83% (1669/1997)
+Test Accuracy of  Fake: 43% (870/1997)
+Test Accuracy (Overall): 63% (2539/3994)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.939572
+Test Accuracy of  Real: 98% (1975/1997)
+Test Accuracy of  Fake: 28% (560/1997)
+Test Accuracy (Overall): 63% (2535/3994)
+
+For test gan whichfaceisreal:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.281763
+Test Accuracy of  Real: 29% (296/1000)
+Test Accuracy of  Fake: 97% (976/1000)
+Test Accuracy (Overall): 63% (1272/2000)
+
+For train category sofa:
+For test gan biggan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.112713
+Test Accuracy of  Real: 91% (1832/2000)
+Test Accuracy of  Fake: 22% (447/2000)
+Test Accuracy (Overall): 56% (2279/4000)
+
+For test gan cyclegan:
+For test category apple:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.109243
+Test Accuracy of  Real: 89% (238/266)
+Test Accuracy of  Fake: 20% (50/248)
+Test Accuracy (Overall): 56% (288/514)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.657315
+Test Accuracy of  Real: 92% (111/120)
+Test Accuracy of  Fake: 12% (18/140)
+Test Accuracy (Overall): 49% (129/260)
+
+For test category orange:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.393835
+Test Accuracy of  Real: 83% (208/248)
+Test Accuracy of  Fake: 12% (32/266)
+Test Accuracy (Overall): 46% (240/514)
+
+For test category summer:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.185090
+Test Accuracy of  Real: 97% (300/308)
+Test Accuracy of  Fake: 10% (25/238)
+Test Accuracy (Overall): 59% (325/546)
+
+For test category winter:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.421661
+Test Accuracy of  Real: 94% (226/238)
+Test Accuracy of  Fake: 76% (236/308)
+Test Accuracy (Overall): 84% (462/546)
+
+For test category zebra:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.281064
+Test Accuracy of  Real: 90% (126/140)
+Test Accuracy of  Fake: 36% (44/120)
+Test Accuracy (Overall): 65% (170/260)
+
+For test gan deepfake:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.810963
+Test Accuracy of  Real: 95% (2584/2706)
+Test Accuracy of  Fake:  7% (192/2698)
+Test Accuracy (Overall): 51% (2776/5404)
+
+For test gan san:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 4.839479
+Test Accuracy of  Real: 84% (186/219)
+Test Accuracy of  Fake: 18% (41/219)
+Test Accuracy (Overall): 51% (227/438)
+
+For test gan stargan:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.263145
+Test Accuracy of  Real: 99% (1991/1999)
+Test Accuracy of  Fake: 80% (1607/1999)
+Test Accuracy (Overall): 89% (3598/3998)
+
+For test gan stylegan:
+For test category bedroom:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 9.306204
+Test Accuracy of  Real: 99% (1985/1997)
+Test Accuracy of  Fake:  9% (190/1997)
+Test Accuracy (Overall): 54% (2175/3994)
+
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.067700
+Test Accuracy of  Real: 99% (1988/1997)
+Test Accuracy of  Fake: 48% (963/1997)
+Test Accuracy (Overall): 73% (2951/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.246652
+Test Accuracy of  Real: 99% (1986/1997)
+Test Accuracy of  Fake: 37% (746/1997)
+Test Accuracy (Overall): 68% (2732/3994)
+
+For test gan stylegan2:
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.293489
+Test Accuracy of  Real: 99% (1987/1997)
+Test Accuracy of  Fake: 19% (385/1997)
+Test Accuracy (Overall): 59% (2372/3994)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 4.283794
+Test Accuracy of  Real: 99% (1987/1997)
+Test Accuracy of  Fake:  4% (95/1997)
+Test Accuracy (Overall): 52% (2082/3994)
+
+For test category church:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.378304
+Test Accuracy of  Real: 95% (1911/1997)
+Test Accuracy of  Fake: 27% (550/1997)
+Test Accuracy (Overall): 61% (2461/3994)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 2.342639
+Test Accuracy of  Real: 98% (1967/1997)
+Test Accuracy of  Fake: 23% (476/1997)
+Test Accuracy (Overall): 61% (2443/3994)
+
+For test gan whichfaceisreal:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 1.882276
+Test Accuracy of  Real: 92% (928/1000)
+Test Accuracy of  Fake: 18% (183/1000)
+Test Accuracy (Overall): 55% (1111/2000)
+

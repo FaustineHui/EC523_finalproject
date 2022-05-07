@@ -1,0 +1,80 @@
+For test category airplane:
+Test Accuracy of Real: 93% (187/200)
+Test Accuracy of Fake: 95% (191/200)
+Test Accuracy (Overall): 94% (378/400)
+For test category bicycle:
+Test Accuracy of Real: 91% (182/200)
+Test Accuracy of Fake: 90% (181/200)
+Test Accuracy (Overall): 90% (363/400)
+For test category bird:
+Test Accuracy of Real: 94% (188/200)
+Test Accuracy of Fake: 81% (163/200)
+Test Accuracy (Overall): 87% (351/400)
+For test category boat:
+Test Accuracy of Real: 95% (190/200)
+Test Accuracy of Fake: 85% (171/200)
+Test Accuracy (Overall): 90% (361/400)
+For test category bottle:
+Test Accuracy of Real: 94% (188/200)
+Test Accuracy of Fake: 87% (175/200)
+Test Accuracy (Overall): 90% (363/400)
+For test category bus:
+Test Accuracy of Real: 96% (193/200)
+Test Accuracy of Fake: 92% (184/200)
+Test Accuracy (Overall): 94% (377/400)
+For test category car:
+Test Accuracy of Real: 95% (191/200)
+Test Accuracy of Fake: 91% (182/200)
+Test Accuracy (Overall): 93% (373/400)
+For test category cat:
+Test Accuracy of Real: 93% (187/200)
+Test Accuracy of Fake: 91% (182/200)
+Test Accuracy (Overall): 92% (369/400)
+For test category chair:
+Test Accuracy of Real: 93% (187/200)
+Test Accuracy of Fake: 94% (188/200)
+Test Accuracy (Overall): 93% (375/400)
+For test category cow:
+Test Accuracy of Real: 95% (191/200)
+Test Accuracy of Fake: 96% (192/200)
+Test Accuracy (Overall): 95% (383/400)
+For test category diningtable:
+Test Accuracy of Real: 96% (192/200)
+Test Accuracy of Fake: 97% (194/200)
+Test Accuracy (Overall): 96% (386/400)
+For test category dog:
+Test Accuracy of Real: 97% (194/200)
+Test Accuracy of Fake: 92% (184/200)
+Test Accuracy (Overall): 94% (378/400)
+For test category horse:
+Test Accuracy of Real: 96% (192/200)
+Test Accuracy of Fake: 98% (197/200)
+Test Accuracy (Overall): 97% (389/400)
+For test category motorbike:
+Test Accuracy of Real: 94% (189/200)
+Test Accuracy of Fake: 96% (193/200)
+Test Accuracy (Overall): 95% (382/400)
+For test category person:
+Test Accuracy of Real: 96% (193/200)
+Test Accuracy of Fake: 91% (182/200)
+Test Accuracy (Overall): 93% (375/400)
+For test category pottedplant:
+Test Accuracy of Real: 96% (192/200)
+Test Accuracy of Fake: 89% (178/200)
+Test Accuracy (Overall): 92% (370/400)
+For test category sheep:
+Test Accuracy of Real: 94% (189/200)
+Test Accuracy of Fake: 87% (175/200)
+Test Accuracy (Overall): 91% (364/400)
+For test category sofa:
+Test Accuracy of Real: 93% (187/200)
+Test Accuracy of Fake: 91% (183/200)
+Test Accuracy (Overall): 92% (370/400)
+For test category train:
+Test Accuracy of Real: 96% (193/200)
+Test Accuracy of Fake: 87% (174/200)
+Test Accuracy (Overall): 91% (367/400)
+For test category tvmonitor:
+Test Accuracy of Real: 94% (189/200)
+Test Accuracy of Fake: 89% (178/200)
+Test Accuracy (Overall): 91% (367/400)

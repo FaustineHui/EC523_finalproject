@@ -1,0 +1,160 @@
+For test category airplane:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.405953
+Test Accuracy of  Real: 79% (158/200)
+Test Accuracy of  Fake: 84% (169/200)
+Test Accuracy (Overall): 81% (327/400)
+
+For test category bicycle:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.497440
+Test Accuracy of  Real: 85% (170/200)
+Test Accuracy of  Fake: 68% (137/200)
+Test Accuracy (Overall): 76% (307/400)
+
+For test category bird:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.737125
+Test Accuracy of  Real: 84% (168/200)
+Test Accuracy of  Fake: 48% (97/200)
+Test Accuracy (Overall): 66% (265/400)
+
+For test category boat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.560983
+Test Accuracy of  Real: 82% (164/200)
+Test Accuracy of  Fake: 68% (136/200)
+Test Accuracy (Overall): 75% (300/400)
+
+For test category bottle:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.345364
+Test Accuracy of  Real: 82% (165/200)
+Test Accuracy of  Fake: 83% (167/200)
+Test Accuracy (Overall): 83% (332/400)
+
+For test category bus:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.371376
+Test Accuracy of  Real: 88% (177/200)
+Test Accuracy of  Fake: 78% (157/200)
+Test Accuracy (Overall): 83% (334/400)
+
+For test category car:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.496392
+Test Accuracy of  Real: 86% (172/200)
+Test Accuracy of  Fake: 71% (142/200)
+Test Accuracy (Overall): 78% (314/400)
+
+For test category cat:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.470915
+Test Accuracy of  Real: 78% (157/200)
+Test Accuracy of  Fake: 79% (158/200)
+Test Accuracy (Overall): 78% (315/400)
+
+For test category chair:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.311529
+Test Accuracy of  Real: 80% (161/200)
+Test Accuracy of  Fake: 90% (181/200)
+Test Accuracy (Overall): 85% (342/400)
+
+For test category cow:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.451182
+Test Accuracy of  Real: 89% (178/200)
+Test Accuracy of  Fake: 69% (139/200)
+Test Accuracy (Overall): 79% (317/400)
+
+For test category diningtable:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.258113
+Test Accuracy of  Real: 89% (178/200)
+Test Accuracy of  Fake: 91% (183/200)
+Test Accuracy (Overall): 90% (361/400)
+
+For test category dog:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.584286
+Test Accuracy of  Real: 86% (172/200)
+Test Accuracy of  Fake: 63% (126/200)
+Test Accuracy (Overall): 74% (298/400)
+
+For test category horse:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.720512
+Test Accuracy of  Real: 89% (179/200)
+Test Accuracy of  Fake: 42% (85/200)
+Test Accuracy (Overall): 66% (264/400)
+
+For test category motorbike:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.435904
+Test Accuracy of  Real: 85% (170/200)
+Test Accuracy of  Fake: 69% (139/200)
+Test Accuracy (Overall): 77% (309/400)
+
+For test category person:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.468344
+Test Accuracy of  Real: 86% (173/200)
+Test Accuracy of  Fake: 71% (143/200)
+Test Accuracy (Overall): 79% (316/400)
+
+For test category pottedplant:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.427746
+Test Accuracy of  Real: 89% (178/200)
+Test Accuracy of  Fake: 72% (145/200)
+Test Accuracy (Overall): 80% (323/400)
+
+For test category sheep:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.425487
+Test Accuracy of  Real: 89% (179/200)
+Test Accuracy of  Fake: 71% (143/200)
+Test Accuracy (Overall): 80% (322/400)
+
+For test category sofa:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.270686
+Test Accuracy of  Real: 80% (161/200)
+Test Accuracy of  Fake: 96% (192/200)
+Test Accuracy (Overall): 88% (353/400)
+
+For test category train:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.423313
+Test Accuracy of  Real: 85% (170/200)
+Test Accuracy of  Fake: 73% (146/200)
+Test Accuracy (Overall): 79% (316/400)
+
+For test category tvmonitor:
+Successfully Loaded Test Set.
+Number of Classes: 2
+Test Loss: 0.342377
+Test Accuracy of  Real: 84% (169/200)
+Test Accuracy of  Fake: 84% (169/200)
+Test Accuracy (Overall): 84% (338/400)
+

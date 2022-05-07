@@ -1,0 +1,3 @@
+Test Accuracy of Real: 53% (1460/2706)
+Test Accuracy of Fake: 28% (775/2698)
+Test Accuracy (Overall): 41% (2235/5404)

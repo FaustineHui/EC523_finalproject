@@ -1,0 +1,12 @@
+For test category bedroom:
+Test Accuracy of Real: 69% (1393/1997)
+Test Accuracy of Fake: 27% (552/1997)
+Test Accuracy (Overall): 48% (1945/3994)
+For test category car:
+Test Accuracy of Real: 90% (1813/1997)
+Test Accuracy of Fake: 83% (1672/1997)
+Test Accuracy (Overall): 87% (3485/3994)
+For test category cat:
+Test Accuracy of Real: 96% (1927/1997)
+Test Accuracy of Fake: 45% (912/1997)
+Test Accuracy (Overall): 71% (2839/3994)
