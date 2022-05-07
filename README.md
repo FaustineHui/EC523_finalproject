@@ -24,8 +24,7 @@ The dataset comes from: [CNNDetection](https://github.com/peterwang512/CNNDetect
 ## Averaged Result
 Our full test data are available in our code repository. Here we take the overall average for our analysis.
 
-| Averaged Accuracy | ProGAN  
- (same category) | ProGAN (overall) | Different GANs(similar category) | Different GANs (overall) |
+| Averaged Accuracy | ProGAN <br> (same category) | ProGAN (overall) | Different GANs(similar category) | Different GANs (overall) |
 | ---- | ---- | ---- | ---- | ---- |
 | Xception | 99.2 | 90.2 | 68.36 | 64.21 | 
 | DenseNet | 73.4 | 60.23 | 54.09 | 50.93 |
