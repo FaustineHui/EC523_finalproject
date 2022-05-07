@@ -1,0 +1,24 @@
+For test category apple:
+Test Accuracy of Real: 83% (222/266)
+Test Accuracy of Fake: 20% (51/248)
+Test Accuracy (Overall): 53% (273/514)
+For test category horse:
+Test Accuracy of Real: 87% (105/120)
+Test Accuracy of Fake: 12% (17/140)
+Test Accuracy (Overall): 46% (122/260)
+For test category orange:
+Test Accuracy of Real: 91% (227/248)
+Test Accuracy of Fake:  4% (13/266)
+Test Accuracy (Overall): 46% (240/514)
+For test category summer:
+Test Accuracy of Real: 97% (301/308)
+Test Accuracy of Fake: 19% (46/238)
+Test Accuracy (Overall): 63% (347/546)
+For test category winter:
+Test Accuracy of Real: 98% (234/238)
+Test Accuracy of Fake: 23% (72/308)
+Test Accuracy (Overall): 56% (306/546)
+For test category zebra:
+Test Accuracy of Real: 82% (115/140)
+Test Accuracy of Fake: 15% (18/120)
+Test Accuracy (Overall): 51% (133/260)

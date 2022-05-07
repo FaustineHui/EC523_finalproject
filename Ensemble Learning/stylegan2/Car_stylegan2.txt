@@ -1,0 +1,16 @@
+For test category car:
+Test Accuracy of Real: 90% (1808/1997)
+Test Accuracy of Fake: 83% (1672/1997)
+Test Accuracy (Overall): 87% (3480/3994)
+For test category cat:
+Test Accuracy of Real: 95% (1914/1997)
+Test Accuracy of Fake: 72% (1453/1997)
+Test Accuracy (Overall): 84% (3367/3994)
+For test category church:
+Test Accuracy of Real: 78% (1562/1997)
+Test Accuracy of Fake: 24% (487/1997)
+Test Accuracy (Overall): 51% (2049/3994)
+For test category horse:
+Test Accuracy of Real: 96% (1928/1997)
+Test Accuracy of Fake: 66% (1320/1997)
+Test Accuracy (Overall): 81% (3248/3994)
