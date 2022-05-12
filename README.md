@@ -22,7 +22,11 @@ To start with, we begin by re-implementing well-performed detectors that belong 
 The dataset comes from: [CNNDetection](https://github.com/peterwang512/CNNDetection)
 
 ## Averaged Result
-Our full test data are available in our code repository. Here we take the overall average for our analysis.
+Our full test data are available in the root directory:
+
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/22309533/168105445-9dab0569-4de1-4ac2-aaa8-175a4cb00fa6.png">
+
+Here we take the overall average for our analysis.
 
 | Averaged Accuracy | ProGAN <br> (same category) | ProGAN (overall) | Different GANs <br> (similar category) | Different GANs <br> (overall) |
 | ---- | ---- | ---- | ---- | ---- |
